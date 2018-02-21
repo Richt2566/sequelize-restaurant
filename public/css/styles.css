@@ -1,0 +1,56 @@
+/*----HEADER-------*/
+body{
+	background-color: pink;	
+}
+
+.topper {
+	padding: 30px;
+	border: 5px solid red;
+}
+.title {
+	margin-left: 450px;
+	font-family: 'Delius', cursive;
+	font-size: 50px;
+	color: #f4a460;
+}
+.middle {
+	margin: auto;
+	display: block;
+	margin-left: 550px;
+}
+
+/*-------TO BE DEVOURED---------*/
+
+.button1 {
+	width: 100px;
+	height: 100px;
+	display: block;
+	border-radius: 50%;
+	background-color: #fffacd;
+	border: none;
+}
+
+.submit-btn {
+	margin-left: 10px;
+}
+
+.left {
+	display: inline-block;
+	margin-left: 550px;
+}
+
+.cone {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid #ff7f50;
+	margin-left: 35px;
+}
+
+/*----DEVOURED----*/
+
+.right {
+	display: inline-block;
+	margin: 20px;
+}

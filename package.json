@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richt2566/handlebars-restaurant.git"
+  },
+  "author": "Rich Tranter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richt2566/handlebars-restaurant/issues"
+  },
+  "homepage": "https://github.com/Richt2566/handlebars-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
